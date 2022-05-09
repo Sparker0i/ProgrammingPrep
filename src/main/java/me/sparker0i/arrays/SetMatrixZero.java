@@ -19,7 +19,7 @@ public class SetMatrixZero {
      * @param input Input 2D Matrix
      * @return Modified Matrix
      */
-    int[][] runner(int[][] input) {
+    public int[][] runner(int[][] input) {
         //Row and Column Length
         int rows = input.length;
         int cols = input[0].length;
